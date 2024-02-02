@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "A JSON Server",
+      "author": "typicode"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "author": "typicode"
+    },
+    {
+      "id": "a8b8",
+      "title": "asfas",
+      "author": "asdfasdf"
+    },
+    {
+      "id": "0192",
+      "title": "Test",
+      "author": "TEST"
+    },
+    {
+      "id": "b464",
+      "title": "Frontend",
+      "author": "Prakasam"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
